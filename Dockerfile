@@ -1,1 +1,1 @@
-From k8s.gcr.io/sig-storage/csi-snapshotter:v3.0.3
+From registry.k8s.io/sig-storage/csi-snapshotter:v6.3.3
